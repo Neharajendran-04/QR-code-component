@@ -8,7 +8,7 @@ A simple responsive QR code component built using HTML and CSS, based on the des
 
 ### Screenshot
 
-![QR Code Component](./Screenshot%202026-08-25%20170631.png)
+![QR Code Component](./Screenshot%202026-08-25%20171318.png)
 
 ### Links
 
