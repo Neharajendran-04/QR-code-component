@@ -8,7 +8,7 @@ A simple responsive QR code component built using HTML and CSS, based on the des
 
 ### Screenshot
 
-![QR Code Component](./QRcode.png)
+![QR Code Component](./qr.png)
 
 ### Links
 
