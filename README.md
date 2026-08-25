@@ -12,7 +12,7 @@ A simple responsive QR code component built using HTML and CSS, based on the des
 
 ### Links
 
-* **Solution URL:** 
+* **Solution URL:** [https://www.frontendmentor.io/solutions/qr-code-component-responsive-html-and-css-SR1jnv_RFE]
 * **Live Site URL:** [https://qr-code-component-frontend-mentors.netlify.app/]
 * **GitHub Repository:** [https://github.com/Neharajendran-04/QR-code-component]
 
