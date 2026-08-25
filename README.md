@@ -12,9 +12,9 @@ A simple responsive QR code component built using HTML and CSS, based on the des
 
 ### Links
 
-* **Solution URL:**
-* **Live Site URL:** Add your deployed site URL here
-* **GitHub Repository:** Add your GitHub repository URL here
+* **Solution URL:** 
+* **Live Site URL:** [https://qr-code-component-frontend-mentors.netlify.app/]
+* **GitHub Repository:** [https://github.com/Neharajendran-04/QR-code-component]
 
 ## My Process
 
@@ -62,9 +62,8 @@ The code and design implementation were written and understood by me.
 
 ## Author
 
-* **Frontend Mentor:** Add your Frontend Mentor profile URL
-* **GitHub:** Add your GitHub profile URL
-* **LinkedIn:** Add your LinkedIn profile URL
+* **Frontend Mentor:** [https://www.frontendmentor.io/profile/Neharajendran-04]
+* **GitHub:** [https://github.com/Neharajendran-04]
 
 ## Acknowledgments
 
